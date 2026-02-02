@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Galo
 
-<!--
-**srvaroa/srvaroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer, currently infrastructure for AI workloads. +20y on
+distributed systems, platform infrastructure, software delivery. 📌
+Barcelona. More on my <a href="https://varoa.net/" alt="Galo Navarro's
+personal site: varoa.net">personal site</a>.
 
-Here are some ideas to get you started:
+#### Side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* <img src="https://playlisthospital.com/favicon.ico" alt="Playlist
+  Hospital icon" width="16px"/> <a href="https://playlisthospital.com/"
+  alt="Playlist Hospital">Playlist Hospital</a> Fix broken Spotify
+  playlists (greyed out songs, duplicates...).
+* 🏷️ <a href="https://github.com/srvaroa/labeler/" title="Label Pull
+  Requests and Issues based on configurable rules">Labeler</a> Github
+  Action for Github PRs and Issues based on configurable rules.
