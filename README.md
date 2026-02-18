@@ -1,8 +1,8 @@
 ### Hi, I'm Galo
 
-I solve business problems using software. Current job automating GPU infrastructure & PaaS for AI workloads. +20y on distributed systems, platform infrastructure, software delivery.
+I solve business problems using software. Right now this means automating GPU infrastructure & PaaS for AI workloads. +20y on distributed systems, platform infrastructure, software delivery.
 
-Currently at Principal SW Eng at @midokura, 📌 Barcelona. More on my
+Currently Principal SW Eng at @midokura, 📌 Barcelona. More on my
 <a href="https://varoa.net/" alt="Galo Navarro's personal site: varoa.net">personal site</a>.
 
 #### Side projects
