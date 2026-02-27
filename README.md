@@ -14,3 +14,6 @@ Currently Principal SW Eng at @midokura, 📌 Barcelona. More on my
 * 🏷️ <a href="https://github.com/srvaroa/labeler/" title="Label Pull
   Requests and Issues based on configurable rules">Labeler</a> Github
   Action for Github PRs and Issues based on configurable rules.
+* 📓 <a href="https://github.com/srvaroa/notion_snapshot" title="">Notion
+  Snapshot</a>. One-way sync from Notion to local markdown files, backed
+  by git history.
