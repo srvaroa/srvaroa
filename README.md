@@ -5,7 +5,7 @@ I solve business problems using software. Currently I build systems to deploy GP
 Currently Principal SW Eng at @midokura, 📌 Barcelona. More on my
 <a href="https://varoa.net/" alt="Galo Navarro's personal site: varoa.net">personal site</a>.
 
-#### Side projects
+#### Some side projects / self-scratched itches
 
 * <img src="https://playlisthospital.com/favicon.ico" alt="Playlist
   Hospital icon" width="16px"/> <a href="https://playlisthospital.com/"
