@@ -1,9 +1,10 @@
 ### Hi, I'm Galo
 
-I solve business problems using software. Currently I build systems to deploy GPU infrastructure and AI workload orchestration for private clouds. +20y on distributed systems, platform infrastructure, software delivery.
+Software engineer with 20 years building and operating distributed systems, platforms, and cloud infrastructure at scale. I am currently building GPU infrastructure and AI workload orchestration for private clouds, and integrating agentic AI into our own engineering workflows.
 
-Currently Principal SW Eng at @midokura, 📌 Barcelona. More on my
-<a href="https://varoa.net/" alt="Galo Navarro's personal site: varoa.net">personal site</a>.
+A significant part of my career involved working with engineering leaders and executives on technology strategy and build vs. buy decisions, then leading engineering teams through implementation and operations. Below are some writings from both perspectives.
+
+Principal SW Eng at @midokura, 📌 Barcelona. More on my <a href="https://varoa.net/" alt="Galo Navarro's personal site: varoa.net">personal site</a>.
 
 #### Some side projects / self-scratched itches
 
