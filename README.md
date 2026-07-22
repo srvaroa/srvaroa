@@ -1,9 +1,8 @@
 ### Hi, I'm Galo
 
-Software engineer with +20 years building and operating distributed
-systems, platforms, and cloud infrastructure at scale. I am currently
-building GPU infrastructure and AI workload orchestration for private
-clouds, and integrating agentic AI into our own engineering workflows.
+GPU infrastructure and orchestration for AI workloads at
+<a href="https://midokura.com">Midokura</a>. +20 years building and 
+operating distributed systems, platforms, and cloud infrastructure.
 
 A significant part of my career involved working with engineering
 leaders and executives on technology strategy and build vs. buy
